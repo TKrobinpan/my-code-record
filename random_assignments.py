@@ -98,3 +98,5 @@ random_shuffle(n)
 for item in dict_card:
     print('{0}:{1}'.format(item, dict_card[item]))
 make_sanky()
+
+# 我新增了一列
